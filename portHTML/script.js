@@ -33,6 +33,7 @@ const projects = [
       'Escolha aleatória do computador a cada rodada',
       'Validação de entrada do usuário',
       'Contagem de pontuação por sessão',
+      'https://github.com/dhouglas-knob/PORTIFOLIO-DH/blob/main/jokenpo.py'
     ],
     stack: ['Python'],
   },
@@ -44,6 +45,7 @@ const projects = [
       'Interatividade com o mouse para exploração do mapa',
       'Uso da biblioteca Processing para renderização gráfica',
       'Informações contextuais sobre cada bacia',
+      'https://github.com/Garmezon/MergulhandoNasBaciasDoParana/tree/main/Mergulhando'
     ],
     stack: ['Processing', 'Java'],
   },
@@ -55,6 +57,7 @@ const projects = [
       'Level design com puzzles progressivos',
       'Desenvolvido sem código tradicional usando Construct',
       'Arte e animações 2D personalizadas',
+      'https://github.com/dhouglas-knob/PORTIFOLIO-DH/tree/main/Split-Mind/Split-Mind-main'
     ],
     stack: ['Construct'],
   },
@@ -66,6 +69,7 @@ const projects = [
       'Sistema de turnos entre jogador e computador',
       'Detecção de acerto, erro e afundamento de navios',
       'Condição de vitória com contagem de navios restantes',
+      'https://github.com/dhouglas-knob/PORTIFOLIO-DH/blob/main/jogoBaseNaval_UT.py'
     ],
     stack: ['Python'],
   },
@@ -78,6 +82,7 @@ const projects = [
       'Modal com detalhes expandidos de cada projeto',
       'Animações CSS e efeito de scanlines',
       'Desenvolvido com auxílio de IA como projeto acadêmico',
+      'https://github.com/dhouglas-knob/PORTIFOLIO-DH/tree/main/portHTML'
     ],
     stack: ['HTML', 'CSS', 'JavaScript'],
   },
@@ -90,6 +95,7 @@ const projects = [
       'Montagem de circuitos na protoboard com componentes eletrônicos',
       'Script Python para automação e leitura dos dados dos sensores',
       'Aplicação prática de conceitos de IoT e robótica embarcada',
+      'https://github.com/dhouglas-knob/PORTIFOLIO-DH/tree/main/SmartCity_CB'
     ],
     stack: ['Python', 'ESP32', 'Protoboard', 'IoT'],
   },
